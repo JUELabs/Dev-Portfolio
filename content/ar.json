@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "logo": " ديف",
+    "home": "الرئيسية",
+    "about": "عني",
+    "projects": "المشاريع",
+    "services": "الخدمات",
+    "skills": "المهارات",
+    "contact": "تواصل معي",
+    "letsTalk": "لنتحدث",
+    "language": "English"
+  },
+
+  "home": {
+    "availability": "متاح للعمل الحر",
+    "greeting": "مرحباً، أنا جيو ديف",
+    "title": "مهندس برمجيات متكامل",
+    "description": "أبني تطبيقات ويب حديثة وقابلة للتوسع مع تجارب مستخدم مميزة. أحب تحويل الأفكار إلى منتجات رقمية حقيقية.",
+    "viewWork": "شاهد أعمالي",
+    "contact": "تواصل معي",
+    "yearsExperience": "سنوات خبرة",
+    "projectsCompleted": "مشروع مكتمل"
+
+  },
+
+  "about": {
+    "label": "عني",
+    "title": "عني",
+    "description": "أنا مهندس برمجيات متكامل شغوف ببناء تطبيقات ويب حديثة وحلول عملية لمشاكل حقيقية.",
+
+    "whoIAm": "من أنا؟",
+
+    "paragraph1": "أعمل على تطوير تطبيقات Full Stack باستخدام تقنيات حديثة، مع التركيز على كتابة كود نظيف وقابل للصيانة وبناء أنظمة يمكن تطويرها وتوسيعها.",
+
+    "paragraph2": "أهتم بفهم المشكلة أولاً، ثم تصميم حل عملي قبل البدء في التنفيذ.",
+
+    "myApproach": "منهجي",
+
+    "understand": "الفهم",
+    "understandDescription": "أفهم احتياجات المشروع والمشكلة قبل كتابة الكود.",
+
+    "design": "التصميم",
+    "designDescription": "أختار architecture مناسبة وقابلة للتوسع.",
+
+    "build": "التنفيذ",
+    "buildDescription": "أبني المنتج مع الاهتمام بجودة الكود وتجربة المستخدم.",
+
+    "mySkills": "مهاراتي",
+
+    "projects": "مشروع",
+    "happyClients": "عميل سعيد",
+    "commitment": "التزام"
+  },
+
+  "skills": {
+    "label": "المهارات",
+    "title": "المهارات التقنية",
+    "description": "التقنيات والمهارات الهندسية التي أستخدمها لبناء تطبيقات ويب متكاملة.",
+
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "قواعد البيانات",
+    "tools": "الأدوات و DevOps",
+    "engineering": "المهارات الهندسية",
+
+    "systemDesign": "System Design",
+    "scalability": "Scalability",
+    "cleanCode": "Clean Code",
+    "debugging": "Debugging",
+    "testing": "Testing",
+    "problemSolving": "Problem Solving"
+  },
+
+  "projects": {
+  "label": "أعمالي",
+  "title": "مشاريعي",
+  "description": "هذه بعض من أحدث أعمالي، وكل مشروع تم بناؤه باهتمام بالتفاصيل وجودة التنفيذ.",
+
+  "all": "الكل",
+  "webApps": "تطبيقات ويب",
+  "mobile": "موبايل",
+  "fullStack": "Full Stack",
+  "uiux": "UI/UX",
+
+  "project": "مشروع",
+  "technologies": "التقنيات",
+  "close": "إغلاق",
+  "Explore": "استكشاف",
+
+  "items": {
+    "taskflow": {
+      "name": "TaskFlow",
+      "description": "منصة حديثة لإدارة المهام وتنظيم العمل وتحسين الإنتاجية."
+    },
+    "ecommerce": {
+      "name": "متجر إلكتروني",
+      "description": "تطبيق تجارة إلكترونية متكامل لإدارة المنتجات والمستخدمين والمصادقة وطلبات الشراء."
+    },
+    "repairCenter": {
+      "name": "مركز الصيانة",
+      "description": "نظام متكامل لإدارة مراكز الصيانة والعملاء والمواعيد والأجهزة وعمليات الإصلاح."
+    },
+    "groceryStore": {
+      "name": "إدارة متجر بقالة",
+      "description": "نظام لإدارة المنتجات والمخزون والمشتريات والمبيعات وحساب الأرباح."
+    }
+  }
+},
+  "services": {
+    "label": "الخدمات",
+    "title": "خدماتي",
+    "description": "أساعد الشركات والأفراد على بناء منتجات رقمية عالية الجودة.",
+
+    "webDevelopment": "تطوير الويب",
+    "webDevelopmentDescription": "تطبيقات ويب حديثة وسريعة باستخدام أحدث التقنيات.",
+
+    "apiDevelopment": "تطوير API",
+    "apiDevelopmentDescription": "REST APIs وخدمات Backend آمنة وقابلة للتوسع.",
+
+    "uiux": "تنفيذ UI/UX",
+    "uiuxDescription": "تحويل التصاميم إلى مواقع تفاعلية ومتجاوبة.",
+
+    "consultation": "الاستشارات",
+    "consultationDescription": "استشارات تقنية وتخطيط للـArchitecture.",
+
+    "ctaTitle": "هل لديك مشروع في ذهنك؟",
+    "ctaDescription": "دعنا نتحدث عن فكرتك ونحوّلها إلى منتج حقيقي."
+  },
+
+  "contact": {
+    "title": "لنعمل معاً",
+    "description": "هل لديك مشروع في ذهنك؟ يسعدني أن أسمع عنه.",
+
+    "email": "البريد الإلكتروني",
+    "location": "الموقع",
+    "availability": "التوفر",
+
+    "locationValue": "مصر",
+    "availabilityValue": "متاح للفرص",
+
+    "followMe": "تابعني",
+
+    "name": "الاسم",
+    "emailField": "البريد الإلكتروني",
+    "message": "الرسالة",
+
+    "namePlaceholder": "اسمك",
+    "emailPlaceholder": "you@example.com",
+    "messagePlaceholder": "أخبرني عن مشروعك... (10 أحرف على الأقل)",
+
+    "sendMessage": "إرسال الرسالة",
+    "sending": "جاري الإرسال...",
+    "fieldRequired": "يرجي التحقق من ملء جميع الحقول.",
+    "success": "تم إرسال الرسالة بنجاح!",
+    "error": "فشل في إرسال الرسالة. يرجى المحاولة مرة أخرى لاحقًا."
+  }
+}

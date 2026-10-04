@@ -1,0 +1,158 @@
+
+{
+  "nav": {
+    "logo": "Dev",
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "services": "Services",
+    "skills": "Skills",
+    "contact": "Contact",
+    "letsTalk": "Let's Talk",
+    "language": "العربية"
+  },
+
+  "home": {
+    "availability": "Available for freelance work",
+    "greeting": "Hi, I'm Dev",
+    "title": "Full Stack Engineer",
+    "description": "I build modern, scalable web applications with great user experiences. I love turning ideas into real products.",
+    "viewWork": "View My Work",
+    "contact": "Contact Me",
+    "yearsExperience": "Years Experience",
+    "projectsCompleted": "Projects Completed"
+
+  },
+
+  "about": {
+    "label": "About Me",
+    "title": "About Me",
+    "description": "I'm a passionate Full Stack Engineer focused on building modern web applications with solutions that solve real problems.",
+
+    "whoIAm": "Who I Am",
+
+    "paragraph1": "I build full-stack applications using modern technologies, with a strong focus on clean, maintainable code and systems that can evolve and scale.",
+
+    "paragraph2": "I believe in understanding the problem first, then designing a practical solution before implementation.",
+
+    "myApproach": "My Approach",
+
+    "understand": "Understand",
+    "understandDescription": "Understand the requirements and problem before writing code.",
+
+    "design": "Design",
+    "designDescription": "Choose a practical and scalable architecture.",
+
+    "build": "Build",
+    "buildDescription": "Build the product while focusing on code quality and UX.",
+
+    "mySkills": "My Skills",
+
+    "projects": "Projects",
+    "happyClients": "Happy Clients",
+    "commitment": "Commitment"
+  },
+
+  "skills": {
+    "label": "Skills",
+    "title": "Technical Skills",
+    "description": "Technologies and engineering skills I use to build complete web applications.",
+
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Database",
+    "tools": "Tools & DevOps",
+    "engineering": "Engineering Skills",
+
+    "systemDesign": "System Design",
+    "scalability": "Scalability",
+    "cleanCode": "Clean Code",
+    "debugging": "Debugging",
+    "testing": "Testing",
+    "problemSolving": "Problem Solving"
+  },
+
+  "projects": {
+  "label": "Portfolio",
+  "title": "My Projects",
+  "description": "Here are some of my recent work, each built with attention to detail and quality.",
+
+  "all": "All",
+  "webApps": "Web Apps",
+  "mobile": "Mobile",
+  "fullStack": "Full Stack",
+  "uiux": "UI/UX",
+
+  "project": "Project",
+  "technologies": "Technologies",
+  "close": "Close",
+  "Explore": "Explore",
+
+  "items": {
+    "taskflow": {
+      "name": "TaskFlow",
+      "description": "A modern platform for task management and productivity."
+    },
+    "ecommerce": {
+      "name": "E-Commerce",
+      "description": "A complete e-commerce application for managing products, users, authentication, and orders."
+    },
+    "repairCenter": {
+      "name": "Repair Center",
+      "description": "A complete system for managing repair centers, customers, appointments, devices, and repair operations."
+    },
+    "groceryStore": {
+      "name": "Grocery Store",
+      "description": "A management system for products, inventory, purchases, sales, and profit calculation."
+    }
+  }
+},
+  "services": {
+    "label": "Services",
+    "title": "My Services",
+    "description": "I help businesses and individuals build high-quality digital products.",
+
+    "webDevelopment": "Web Development",
+    "webDevelopmentDescription": "Modern and performant web applications using the latest technologies.",
+
+    "apiDevelopment": "API Development",
+    "apiDevelopmentDescription": "Scalable and secure REST APIs and backend services.",
+
+    "uiux": "UI/UX Implementation",
+    "uiuxDescription": "Turning designs into responsive and interactive websites.",
+
+    "consultation": "Consultation",
+    "consultationDescription": "Technical consultation and architecture planning.",
+
+    "ctaTitle": "Have a project in mind?",
+    "ctaDescription": "Let's talk about your idea and turn it into a real product."
+  },
+
+  "contact": {
+    "title": "Let's Work Together",
+    "description": "Have a project in mind? I'd love to hear about it.",
+
+    "email": "Email",
+    "location": "Location",
+    "availability": "Availability",
+
+    "locationValue": "Egypt",
+    "availabilityValue": "Open to opportunities",
+
+    "followMe": "Follow Me",
+
+    "name": "Name",
+    "emailField": "Email",
+    "message": "Message",
+
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "you@example.com",
+    "messagePlaceholder": "Tell me about your project... min(10 characters)",
+
+    "sendMessage": "Send Message",
+    "sending": "Sending...",
+    "fieldRequired": "Please make sure all fields are filled.",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again later."
+  }
+}
